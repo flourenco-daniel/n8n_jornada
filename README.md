@@ -1,5 +1,3 @@
-# Documentação do docker-compose.yml
-
 ## Visão Geral
 Este `docker-compose.yml` define um ambiente com dois serviços principais:
 
